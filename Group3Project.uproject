@@ -17,7 +17,7 @@
 		},
 		{
 			"Name": "IVSmoke",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "PCG",
