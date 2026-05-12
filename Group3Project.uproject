@@ -16,11 +16,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PCG",
-			"Enabled": true
+			"Name": "IVSmoke",
+			"Enabled": false
 		},
 		{
-			"Name": "IVSmoke",
+			"Name": "PCG",
 			"Enabled": true
 		}
 	]
